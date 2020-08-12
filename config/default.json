@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://root:Shuja123@mongocluster-0twwk.mongodb.net/adminportaldb?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
